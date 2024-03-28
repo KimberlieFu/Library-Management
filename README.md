@@ -15,7 +15,7 @@ Use`gradle run`commands that will start the main method of the App class to run 
 Gradle uses JUnit to run tests by default. To run all the tests, just run the`gradle test`command in the root directory of the project to check the test coverages. The test coverage can be found in the`build/jacocoReport/index.html`it is expected that the code coverage is 75% backend
 
 ## How to contribute/collaborate on the database
-Clone the project locally ('https://github.sydney.edu.au/SOFT2412-COMP9412-2023S2/Lab05-Vinit-Group1-A2.git')
+Clone the project locally ('https://github.com/KimberlieFu/Library-Management.git')
 Here are the steps to perform for each modification:
 1. create and switch to your own branch (`git checkout-b myNewFeature`)
 2. Update the latest version of your main branch locally (`git pull origin main`)
