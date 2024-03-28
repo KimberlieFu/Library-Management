@@ -1,5 +1,3 @@
-# Lab05-Vinit-Group1-A2
-
 ## How to run the program
 Preparation:
 * MySQL database (MySQL Workbench for better management)
